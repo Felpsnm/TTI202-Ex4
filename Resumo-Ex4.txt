@@ -1,0 +1,7 @@
+22.00026-7
+- Criou o Respositório no GitHub
+- Adicionou a função de Soma
+- Adicionou a função de Subtração
+- Adicionou a função de Multiplicação
+- Adicionou a função de Divisão
+- Aperfeiçoou as Saídas da Calculadora
